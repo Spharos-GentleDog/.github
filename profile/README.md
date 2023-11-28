@@ -1,28 +1,31 @@
-# E-Genius
+# GentleDog
 반려동물에 맞는 의류를 Eeay하고 Genius하게!!<br>
 AI를 활용해 반려동물 맞춤 의류 서비스를 제공하는 이커머스 플랫폼 "Gentle Dog" 입니다
 
 
-- 🔗 LINK : https://gentledog.store/ , https://fe-seller-admin.vercel.app/signin?callbackUrl=%2F
+- 🔗 GentleDog User LINK : https://gentledog.store/
+- 🔗 GentleDog Vendor LINK : https://fe-seller-admin.vercel.app/signin?callbackUrl=%2F
 - 🎼 Period : 2023.09.19 ~ 2023.11.30 (11주간 진행)
 - 📑 Notion : https://www.notion.so/e-genius/2ea8ec107bf847169f9ee57bdab31f23
 <br>
 
-<div align="center">  
-  <img width="300" height="300" src="https://github.com/Spharos-GentleDog/.github/assets/94760980/ecd3d4ef-2c0b-4f36-b211-4fe4034bccf8" alt="이미지">
-</div>
+| ![메인 페이지](https://github.com/Spharos-GentleDog/.github/assets/94760980/ecd3d4ef-2c0b-4f36-b211-4fe4034bccf8) | ![판매자 페이지](https://github.com/Spharos-GentleDog/.github/assets/94760980/38e9494b-0360-4b38-81ff-ea1574ba97f9) |
+| --- | --- |
+| 메인 페이지 | 판매자 페이지 |
+| Id: jeongs9203@naver.com Pw: qwe123!! | Id: ssginc@ssg.com Pw: ssginc@ssg.com |
+
 
 ## "작업 파일"
 - 📑 Event Stoming : https://miro.com/app/board/uXjVNceHe6s=/
 - 📑 ERD : https://www.erdcloud.com/d/cXtMSDhYTRLNNAySm
-- 📑 API, 요구사항 정의서, WBS : https://docs.google.com/spreadsheets/d/1i9vjZlFR1PgwbV9mSoG_H8IU6rWAwt4cpezzccdoXjM/edit#gid=122072763
+- 📑 API, 요구사항 정의서, WBS : https://docs.google.com/spreadsheets/d/18AVBxZLdVDsvVu0crl60HZH2wRxRNshey2z3V4AaroE/edit#gid=122072763
 <br>
 
 
 
 ## 1. 팀원 소개
 ### [Front]
-![image](https://github.com/Spharos-GentleDog/.github/assets/94760980/e8db2fd1-d89e-49be-87a4-349f96ad2da0)
+![image](https://github.com/Spharos-GentleDog/.github/assets/94760980/34a9c91a-a5f6-4870-87d1-9fcb4ca0a7e2)
 
   권선
   - 담당업무 : 상품상세, 주문하기, 찜/장바구니, 후기
@@ -37,18 +40,19 @@ AI를 활용해 반려동물 맞춤 의류 서비스를 제공하는 이커머�
   - email  : jeongs9203@gmail.com
 
 ### [Back]
-![image](https://github.com/Spharos-GentleDog/.github/assets/94760980/b4af78ba-40ca-4d0a-a8b5-0e22218cb190)
+![image](https://github.com/Spharos-GentleDog/.github/assets/94760980/bebdb806-2550-49ea-89be-6a88053e7f18)
+
 
   강다은(팀장)
   - 담당업무 : 판매자, 상품, AI, 후기/댓글
   - e-mail : daeunk71@gmail.com
     
   김동환
-  - 담당업무 : 인프라, 결제, 정산, 장바구니/찜, 쿠폰/이벤트
+  - 담당업무 : 인프라, 결제, 정산, 장바구니/찜
   - e-mail : sip0518@pusan.ac.kr
 
   양창민
-  - 담당업무 : 유저, 주문, 포인트, 관리자
+  - 담당업무 : 유저, 주문
   - e-mail : ycm0926@pukyong.ac.kr
 
 ## 2. [메인 페이지](https://gentledog.store/)
@@ -78,7 +82,7 @@ pw: 12341234
 ![image](https://github.com/Spharos-GentleDog/.github/assets/94760980/dcffa8c0-c5bb-41bb-8b66-e5671a29c480)
 
 
-## 🏋️‍♂️ 기술 스택
+## 6. 🏋️‍♂️ 기술 스택
 ### Frontend  
 
 <div align="center">  
