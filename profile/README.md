@@ -93,6 +93,8 @@ AI를 활용해 반려동물 맞춤 의류 서비스를 제공하는 이커머�
   <a href="https://www.java.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/java-original-wordmark.svg" alt="Java" height="50" /></a>
   <a href="https://flask-docs-kr.readthedocs.io/ko/latest/" target="_blank"><img style="margin: 10px" src="https://github.com/Spharos-GentleDog/.github/assets/94760980/9433a860-520b-4401-8be2-f699584bb045" alt="Flask" height="50" /></a>
   <a href="https://www.mysql.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" alt="MySQL" height="50" /></a>  
+  <a href="https://kafka.apache.org/" target="_blank"><img style="margin: 10px" src="https://github.com/Spharos-GentleDog/.github/assets/94760980/23417f0a-22d9-49c9-819b-55b707eff3cc" alt="Kafka" height="50" /></a>  
+
 </div>
 
 ## DevOps  
