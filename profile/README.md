@@ -1,7 +1,6 @@
-# GentleDog
+# 🐕‍🦺 GentleDog
 반려동물에 맞는 의류를 Eeay하고 Genius하게!!<br>
 AI를 활용해 반려동물 맞춤 의류 서비스를 제공하는 이커머스 플랫폼 "Gentle Dog" 입니다
-
 
 - 🔗 GentleDog User LINK : https://gentledog.store/
 - 🔗 GentleDog Vendor LINK : https://fe-seller-admin.vercel.app/signin?callbackUrl=%2F
@@ -23,61 +22,70 @@ AI를 활용해 반려동물 맞춤 의류 서비스를 제공하는 이커머�
 
 
 
-## 1. 팀원 소개
+## ⛷1. 팀원 소개
+<div align="center">  
+  
 ### [Front]
+
 ![image](https://github.com/Spharos-GentleDog/.github/assets/94760980/34a9c91a-a5f6-4870-87d1-9fcb4ca0a7e2)
 
-  권선
-  - 담당업무 : 상품상세, 주문하기, 찜/장바구니, 후기
-  - e-mail : ksun2128@pukyong.ac.kr
-    
-  곽세희 
-  - 담당업무 : 판매자, 관리자, 상품, 회원가입, 로그인, ChatGPT/ChatBot
-  - e-mail : 1817021@donga.ac.kr
 
-  소정완 
-  - 담당업무 : 배포, 유저, 결제, 회원가입, 로그인, 카테고리, 상품목록, AI
-  - email  : jeongs9203@gmail.com
+| 이름   | 담당 업무                                       | E-mail                   |
+|--------|--------------------------------------------------|--------------------------|
+| 권선   | 상품상세, 주문하기, 찜/장바구니, 후기          | ksun2128@pukyong.ac.kr  |
+| 곽세희 | 판매자, 관리자, 상품, 회원가입, 로그인, ChatGPT/ChatBot | 1817021@donga.ac.kr    |
+| 소정완 | 배포, 유저, 결제, 회원가입, 로그인, 카테고리, 상품목록, AI | jeongs9203@gmail.com   |
 
-### [Back]
+
+  
+### ⛷[Back]
+  
 ![image](https://github.com/Spharos-GentleDog/.github/assets/94760980/bebdb806-2550-49ea-89be-6a88053e7f18)
 
 
-  강다은(팀장)
-  - 담당업무 : 판매자, 상품, AI, 후기/댓글
-  - e-mail : daeunk71@gmail.com
-    
-  김동환
-  - 담당업무 : 인프라, 결제, 정산, 장바구니/찜
-  - e-mail : sip0518@pusan.ac.kr
+| 이름    | 담당 업무                            | E-mail                     |
+|---------|-------------------------------------|----------------------------|
+| 강다은   | 판매자, 상품, AI, 후기/댓글       | daeunk71@gmail.com         |
+| 김동환   | 인프라, 결제, 정산, 장바구니/찜  | sip0518@pusan.ac.kr        |
+| 양창민   | 유저, 주문                          | ycm0926@pukyong.ac.kr      |
 
-  양창민
-  - 담당업무 : 유저, 주문
-  - e-mail : ycm0926@pukyong.ac.kr
+</div>
 
-## 2. [메인 페이지](https://gentledog.store/)
+## 🏂2. [메인 페이지](https://gentledog.store/)
 
-id: jeongs9203@naver.com 
+<div align="center">  
+  
+### 2-1 로그인 / AI
+https://github.com/Spharos-GentleDog/.github/assets/94760980/0064e3a2-3cad-4f65-be1d-35ac92f6c0a0
 
-pw: qwe123!!
+
+### 2.2 장바구니 / 결제
+https://github.com/Spharos-GentleDog/.github/assets/94760980/9a6201eb-26da-4903-8697-291f92f6fbeb
+
+### 2-3 챗봇
+https://github.com/Spharos-GentleDog/.github/assets/94760980/7917d645-efba-411b-ba42-fd89092668df
+</div>
 
 ![image](https://github.com/Spharos-GentleDog/.github/assets/94760980/da466ed9-abe5-42de-9c64-28948ad01f40)
 
-## 3. [판매자 페이지](https://fe-seller-admin.vercel.app/signin?callbackUrl=%2F/)
+## 🏊‍♀️3. [판매자 페이지](https://fe-seller-admin.vercel.app/signin?callbackUrl=%2F/)
 
-id: ssginc@ssg.com
+### 3-1 판매자 페이지
+<div align="center">  
+  
+https://github.com/Spharos-GentleDog/.github/assets/94760980/09eafec5-b962-4bf2-9c72-f8ddf2c0a843
 
-pw: 12341234
-
+</div>
+  
 ![image](https://github.com/Spharos-GentleDog/.github/assets/94760980/a59fc843-d137-44ca-bdf7-7283c1187774)
 ![image](https://github.com/Spharos-GentleDog/.github/assets/94760980/767605a1-753e-4586-adf1-d07a0be3a041)
 
 
-## 4. [이벤트 스토밍](https://miro.com/app/board/uXjVNceHe6s=/?share_link_id=300445028113)
+## 4. ⛹️‍♀️[이벤트 스토밍](https://miro.com/app/board/uXjVNceHe6s=/?share_link_id=300445028113)
 
 ![image](https://github.com/Spharos-GentleDog/.github/assets/94760980/8fde5f34-ec9b-4a4d-a984-e272f5cda617)
 
-## 5. <a href=//www.erdcloud.com/d/cXtMSDhYTRLNNAySm>ERD</a>
+## 5. 🚴<a href=//www.erdcloud.com/d/cXtMSDhYTRLNNAySm>ERD</a>
 
 ![image](https://github.com/Spharos-GentleDog/.github/assets/94760980/dcffa8c0-c5bb-41bb-8b66-e5671a29c480)
 
