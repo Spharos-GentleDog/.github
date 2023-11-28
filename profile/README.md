@@ -3,13 +3,16 @@
 AI를 활용해 반려동물 맞춤 의류 서비스를 제공하는 이커머스 플랫폼 "Gentle Dog" 입니다
 
 
-
 - 🔗 LINK : https://gentledog.store/ , https://fe-seller-admin.vercel.app/signin?callbackUrl=%2F
 - 🎼 Period : 2023.09.19 ~ 2023.11.30 (11주간 진행)
 - 📑 Notion : https://www.notion.so/e-genius/2ea8ec107bf847169f9ee57bdab31f23
 <br>
 
-### "작업 파일"
+<div align="center">  
+  <img width="300" height="300" src="https://github.com/Spharos-GentleDog/.github/assets/94760980/ecd3d4ef-2c0b-4f36-b211-4fe4034bccf8" alt="이미지">
+</div>
+
+## "작업 파일"
 - 📑 Event Stoming : https://miro.com/app/board/uXjVNceHe6s=/
 - 📑 ERD : https://www.erdcloud.com/d/cXtMSDhYTRLNNAySm
 - 📑 API, 요구사항 정의서, WBS : https://docs.google.com/spreadsheets/d/1i9vjZlFR1PgwbV9mSoG_H8IU6rWAwt4cpezzccdoXjM/edit#gid=122072763
@@ -17,8 +20,8 @@ AI를 활용해 반려동물 맞춤 의류 서비스를 제공하는 이커머�
 
 
 
-# 1. 팀원 소개
-## [Front]
+## 1. 팀원 소개
+### [Front]
 ![image](https://github.com/Spharos-GentleDog/.github/assets/94760980/e8db2fd1-d89e-49be-87a4-349f96ad2da0)
 
   권선
@@ -33,7 +36,7 @@ AI를 활용해 반려동물 맞춤 의류 서비스를 제공하는 이커머�
   - 담당업무 : 배포, 유저, 결제, 회원가입, 로그인, 카테고리, 상품목록, AI
   - email  : jeongs9203@gmail.com
 
-## [Back]
+### [Back]
 ![image](https://github.com/Spharos-GentleDog/.github/assets/94760980/b4af78ba-40ca-4d0a-a8b5-0e22218cb190)
 
   강다은(팀장)
@@ -48,29 +51,35 @@ AI를 활용해 반려동물 맞춤 의류 서비스를 제공하는 이커머�
   - 담당업무 : 유저, 주문, 포인트, 관리자
   - e-mail : ycm0926@pukyong.ac.kr
 
-# 2. [메인 페이지](https://gentledog.store/)
+## 2. [메인 페이지](https://gentledog.store/)
+
+id: jeongs9203@naver.com 
+
+pw: qwe123!!
 
 ![image](https://github.com/Spharos-GentleDog/.github/assets/94760980/da466ed9-abe5-42de-9c64-28948ad01f40)
 
-# 3. [판매자 페이지](https://fe-seller-admin.vercel.app/signin?callbackUrl=%2F/)
+## 3. [판매자 페이지](https://fe-seller-admin.vercel.app/signin?callbackUrl=%2F/)
+
+id: ssginc@ssg.com
+
+pw: 12341234
 
 ![image](https://github.com/Spharos-GentleDog/.github/assets/94760980/a59fc843-d137-44ca-bdf7-7283c1187774)
 ![image](https://github.com/Spharos-GentleDog/.github/assets/94760980/767605a1-753e-4586-adf1-d07a0be3a041)
 
 
-# 4. [이벤트 스토밍](https://miro.com/app/board/uXjVNceHe6s=/?share_link_id=300445028113)
+## 4. [이벤트 스토밍](https://miro.com/app/board/uXjVNceHe6s=/?share_link_id=300445028113)
 
 ![image](https://github.com/Spharos-GentleDog/.github/assets/94760980/8fde5f34-ec9b-4a4d-a984-e272f5cda617)
 
-# 5. <a href=//www.erdcloud.com/d/cXtMSDhYTRLNNAySm>ERD</a>
+## 5. <a href=//www.erdcloud.com/d/cXtMSDhYTRLNNAySm>ERD</a>
 
 ![image](https://github.com/Spharos-GentleDog/.github/assets/94760980/dcffa8c0-c5bb-41bb-8b66-e5671a29c480)
 
 
-
-
-# 🏋️‍♂️ 기술 스택
-## Frontend  
+## 🏋️‍♂️ 기술 스택
+### Frontend  
 
 <div align="center">  
   <a href="https://nextjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nextjs.png" alt="NextJS" height="50" /></a> 
@@ -83,9 +92,7 @@ AI를 활용해 반려동물 맞춤 의류 서비스를 제공하는 이커머�
   <a href="https://vercel.com/" target="_blank"><img style="margin: 10px" src="https://github.com/Spharos-GentleDog/.github/assets/94760980/5df9af75-416f-4203-89d7-268dd10b9a62" alt="Vercel" height="50" /></a>
 </div>
 
-
-
-## Backend  
+### Backend  
 
 <div align="center">  
   <a href="https://docs.spring.io/spring-framework/docs/3.0.x/reference/expressions.html#:~:text=The%20Spring%20Expression%20Language%20(SpEL,and%20basic%20string%20templating%20functionality." target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/springio-icon.svg" alt="Spring Boot" height="50" /></a>  
@@ -97,7 +104,7 @@ AI를 활용해 반려동물 맞춤 의류 서비스를 제공하는 이커머�
 
 </div>
 
-## DevOps  
+### DevOps  
 
 <div align="center">  
   <a href="https://aws.amazon.com/ko/pm/ec2/?gclid=CjwKCAiAmZGrBhAnEiwAo9qHiV7FlaOMCLtnnmFrFUegG66zM18yHzzGkd8zg4KbBCrEOLX91vzynBoCIEcQAvD_BwE&trk=4c74fd91-5632-4f18-ac76-a6c66c92e185&sc_channel=ps&ef_id=CjwKCAiAmZGrBhAnEiwAo9qHiV7FlaOMCLtnnmFrFUegG66zM18yHzzGkd8zg4KbBCrEOLX91vzynBoCIEcQAvD_BwE:G:s&s_kwcid=AL!4422!3!477203497843!e!!g!!ec2!11549843702!111422708806" target="_blank"><img style="margin: 10px" src="https://github.com/Spharos-GentleDog/.github/assets/94760980/4b502b35-bb9c-49f8-be80-b148602904ab" alt="EC2" height="50" /></a>  
