@@ -11,7 +11,7 @@ AI를 활용해 반려동물 맞춤 의류 서비스를 제공하는 이커머�
 | ![메인 페이지](https://github.com/Spharos-GentleDog/.github/assets/94760980/ecd3d4ef-2c0b-4f36-b211-4fe4034bccf8) | ![판매자 페이지](https://github.com/Spharos-GentleDog/.github/assets/94760980/38e9494b-0360-4b38-81ff-ea1574ba97f9) |
 | --- | --- |
 | 메인 페이지 | 판매자 페이지 |
-| Id: jeongs9203@naver.com Pw: qwe123!! | Id: ssginc@ssg.com Pw: ssginc@ssg.com |
+| Id: jeongs9203@naver.com Pw: qwe123!! | Id: ssginc@ssg.com Pw: 12341234 |
 
 
 ## "작업 파일"
