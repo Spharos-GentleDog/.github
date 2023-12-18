@@ -51,35 +51,44 @@ AI를 활용해 반려동물 맞춤 의류 서비스를 제공하는 이커머�
 
 </div>
 
-## 🏂2. [메인 페이지](https://gentledog.store/)
+## 🏂2. [메인 기능](https://gentledog.store/)
 
-<div align="center">  
   
-### 2-1 로그인 / AI
-https://github.com/Spharos-GentleDog/.github/assets/94760980/0064e3a2-3cad-4f65-be1d-35ac92f6c0a0
+### 2-1 추천 AI
+<div align="center">  
 
+https://github.com/Spharos-GentleDog/.github/assets/94760980/207ca78a-13da-4b93-86ae-f804be27123a
 
-### 2.2 장바구니 / 결제
-https://github.com/Spharos-GentleDog/.github/assets/94760980/9a6201eb-26da-4903-8697-291f92f6fbeb
+https://github.com/Spharos-GentleDog/.github/assets/94760980/f2158dce-b373-44a8-9c59-4bbc5eb25f61
 
-### 2-3 챗봇
-https://github.com/Spharos-GentleDog/.github/assets/94760980/7917d645-efba-411b-ba42-fd89092668df
 </div>
 
-![image](https://github.com/Spharos-GentleDog/.github/assets/94760980/da466ed9-abe5-42de-9c64-28948ad01f40)
+### 2.2 장바구니 / 결제
+<div align="center">  
+
+https://github.com/Spharos-GentleDog/.github/assets/94760980/a01beeac-d7e6-47c7-8344-a2b49a7df499
+
+https://github.com/Spharos-GentleDog/.github/assets/94760980/c99e4ecc-b2b4-47f8-b381-01b89124d890
+
+</div>
+
+### 2-3 챗봇
+<div align="center">  
+
+https://github.com/Spharos-GentleDog/.github/assets/94760980/7b6ef101-c99b-4245-8cd4-eb4d835bc10e
+
+https://github.com/Spharos-GentleDog/.github/assets/94760980/542f8624-1d2b-4d3b-bda0-4e514ed7326b
+
+</div>
 
 ## 🏊‍♀️3. [판매자 페이지](https://fe-seller-admin.vercel.app/signin?callbackUrl=%2F/)
 
 ### 3-1 판매자 페이지
 <div align="center">  
-  
-https://github.com/Spharos-GentleDog/.github/assets/94760980/09eafec5-b962-4bf2-9c72-f8ddf2c0a843
+
+https://github.com/Spharos-GentleDog/.github/assets/94760980/cea17bb9-9e03-451d-85bb-3a29360af93a
 
 </div>
-  
-![image](https://github.com/Spharos-GentleDog/.github/assets/94760980/a59fc843-d137-44ca-bdf7-7283c1187774)
-![image](https://github.com/Spharos-GentleDog/.github/assets/94760980/767605a1-753e-4586-adf1-d07a0be3a041)
-
 
 ## 4. ⛹️‍♀️[이벤트 스토밍](https://miro.com/app/board/uXjVNceHe6s=/?share_link_id=300445028113)
 
