@@ -6,6 +6,8 @@ AI를 활용해 반려동물 맞춤 의류 서비스를 제공하는 이커머�
 - 🔗 GentleDog Vendor LINK : https://fe-seller-admin.vercel.app/signin?callbackUrl=%2F
 - 🎼 Period : 2023.09.19 ~ 2023.11.30 (11주간 진행)
 - 📑 Notion : https://www.notion.so/e-genius/2ea8ec107bf847169f9ee57bdab31f23
+- 📑 Pdf : [Gentle dog.pdf](https://github.com/Spharos-GentleDog/.github/files/13707372/Gentle.dog.pdf)
+
 <br>
 
 | ![메인 페이지](https://github.com/Spharos-GentleDog/.github/assets/94760980/ecd3d4ef-2c0b-4f36-b211-4fe4034bccf8) | ![판매자 페이지](https://github.com/Spharos-GentleDog/.github/assets/94760980/38e9494b-0360-4b38-81ff-ea1574ba97f9) |
